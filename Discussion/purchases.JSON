@@ -1,0 +1,22 @@
+[
+	{
+		"username": "David",
+		"apple": 1,
+		"orange": 2
+	},
+	{
+		"username": "June",
+		"apple": 3,
+		"orange": 0
+	},
+	{
+		"username": "Lily",
+		"apple": 0,
+		"orange": 7
+	},
+	{
+		"username": "Robert",
+		"apple": 2,
+		"orange": 3
+	}
+]

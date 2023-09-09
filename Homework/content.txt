@@ -1,0 +1,54 @@
+1 History
+2 Goals
+2.1 Reasoning, problem-solving
+2.2 Knowledge representation
+2.3 Planning
+2.4 Learning
+2.5 Natural language processing
+2.6 Perception
+2.7 Motion and manipulation
+2.8 Social intelligence
+2.9 General intelligence
+3 Tools
+3.1 Search and optimization
+3.2 Logic
+3.3 Probabilistic methods for uncertain reasoning
+3.4 Classifiers and statistical learning methods
+3.5 Artificial neural networks
+3.5.1 Deep learning
+3.6 Specialized languages and hardware
+4 Applications
+5 Philosophy
+5.1 Defining artificial intelligence
+5.1.1 Thinking vs. acting: the Turing test
+5.1.2 Acting humanly vs. acting intelligently: intelligent agents
+5.2 Evaluating approaches to AI
+5.2.1 Symbolic AI and its limits
+5.2.2 Neat vs. scruffy
+5.2.3 Soft vs. hard computing
+5.2.4 Narrow vs. general AI
+5.3 Machine consciousness, sentience and mind
+5.3.1 Consciousness
+5.3.2 Computationalism and functionalism
+5.3.3 Robot rights
+6 Future
+6.1 Superintelligence
+6.2 Risks
+6.2.1 Technological unemployment
+6.2.2 Bad actors and weaponized AI
+6.2.3 Algorithmic bias
+6.2.4 Existential risk
+6.3 Ethical machines
+6.4 Human-Centered AI
+6.5 Regulation
+7 In fiction
+8 See also
+9 Explanatory notes
+10 Citations
+11 References
+11.1 AI textbooks
+11.2 History of AI
+11.3 Other sources
+12 Further reading
+13 External links
+14 Sources
